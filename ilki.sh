@@ -1,3 +1,3 @@
 #!/bin/bash 
-# Add comments
+# Add comments twice
 echo "build le : `date +'%D'`" >> /home/jenkins/ilki.log
